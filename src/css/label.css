@@ -1,0 +1,11 @@
+.label{
+     -fx-font-size: 20pt;
+     -fx-background-color:aquamarine;
+    -fx-font-family: "Arial";
+    -fx-font-size: 25;
+    -fx-text-fill: black;
+    -fx-border-style:  dotted;
+    -fx-border-radius:10 ;
+    -fx-background-radius:10 ;
+    -fx-border-width: 5px;
+}
